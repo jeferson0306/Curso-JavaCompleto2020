@@ -1,4 +1,4 @@
-package EstruturasDeControle;
+package estruturasdecontrole;
 import java.util.Scanner;
 public class Variaveis_e_Wrappers {
 

@@ -1,4 +1,4 @@
-package EstruturasDeControle;
+package estruturasdecontrole;
 import java.util.Scanner;
 
 public class DesafioDiaSemana_JS {

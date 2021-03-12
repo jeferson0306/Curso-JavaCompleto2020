@@ -1,4 +1,4 @@
-package EstruturasDeControle;
+package estruturasdecontrole;
 public class DesafioAritimeticos {
 
 	public static void main(String[] args) {

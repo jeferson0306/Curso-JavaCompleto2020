@@ -1,4 +1,4 @@
-package EstruturasDeControle;
+package estruturasdecontrole;
 
 public class SwitchComBreak {
 

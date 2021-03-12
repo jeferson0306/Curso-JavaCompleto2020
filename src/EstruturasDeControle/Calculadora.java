@@ -1,4 +1,4 @@
-package EstruturasDeControle;
+package estruturasdecontrole;
 import java.util.Locale;
 import java.util.Scanner;
 
