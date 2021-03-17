@@ -35,7 +35,7 @@ public class Usuario {
 	
 	
 	
-	/**
+	/** 1 FORMA
 	 * public boolean equals(Object objeto) {
 	 * if(objeto instanceof Usuario) {
 			
@@ -52,7 +52,7 @@ public class Usuario {
 		
 		
 	}
-	/**
+	/** 2 FORMA
 	public boolean equals(Object objeto) {
 		if(objeto instanceof Usuario) {
 			Usuario outro = (Usuario) objeto;

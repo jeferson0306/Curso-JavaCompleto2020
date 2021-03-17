@@ -7,7 +7,7 @@ public class For {
 		/**
 		 * for (inicialização da variável; expressão; modificação da variável)
 		 */
-		for (int contador = 0; contador <= 20; contador++) {
+		for (int contador = 0; contador <= 20; contador+=2) {
 			System.out.printf("i = %d\n", contador);
 
 			/**
