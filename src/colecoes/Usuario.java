@@ -5,7 +5,7 @@ public class Usuario {
 	String nome;
 	
 	Usuario(String nome) {
-		this.nome
+		this.nome = nome;
 	}
 
 	@Override
