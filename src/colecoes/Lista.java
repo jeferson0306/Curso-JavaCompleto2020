@@ -21,7 +21,7 @@ public class Lista {
 		System.out.println(">>>>>>> " + lista.remove(1).nome);
 		System.out.println(lista.remove(new Usuario("Manu")));
 		
-		System.out.println(lista.contains(new Usuario("LIa")));
+		System.out.println(lista.contains(new Usuario("Lia")));
 		
 		
 		for(Usuario u: lista) {
