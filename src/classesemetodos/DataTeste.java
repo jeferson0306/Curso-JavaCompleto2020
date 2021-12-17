@@ -4,10 +4,10 @@ public class DataTeste {
 
 	public static void main(String[] args) {
 
-		// data inicial do calendário
+		// data inicial do calendario
 		Data d1 = new Data();
 		
-		// se colocar isso, o padrão será esta data, se retirar será a que tá setada no data.java
+		// se colocar isso, o padrao sera esta data, se retirar sera a que ta setada no data.java
 		d1.ano = 1994;
 		d1.mes = 06;
 		d1.dia = 03;

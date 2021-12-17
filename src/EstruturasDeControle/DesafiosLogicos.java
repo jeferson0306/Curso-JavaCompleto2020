@@ -4,10 +4,10 @@ public class DesafiosLogicos {
 
 	public static void main(String[] args) {
 		
-		// Trabalho na terça (V ou F)
+		// Trabalho na terï¿½a (V ou F)
 		// Trabalho na quinta (V ou F)
 		
-		// parte alterável
+		// parte alterï¿½vel
 		boolean trabalho1 = true; //TV50
 		boolean trabalho2= true; //TV25
 		
@@ -16,13 +16,13 @@ public class DesafiosLogicos {
 		boolean comprouTV25 = trabalho1 ^ trabalho2;
 		boolean comprouSorvete = trabalho1 || trabalho2;
 		
-		// Operador Unário
-		boolean maisSaudável = ! comprouSorvete;
+		// Operador Unï¿½rio
+		boolean maisSaudavel = ! comprouSorvete;
 			
 		System.out.println("Comprou TV50\"? "  + comprouTV50);
 		System.out.println("Comprou TV25\"? "  + comprouTV25);
 		System.out.println("Comprou Sorvete? "  + comprouSorvete);
-		System.out.println("Mais Saudável? "  + maisSaudável);
+		System.out.println("Mais Saudï¿½vel? "  + maisSaudavel);
 		
 	}
 

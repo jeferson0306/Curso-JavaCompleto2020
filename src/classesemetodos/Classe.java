@@ -4,7 +4,7 @@ public class Classe {
 
 
 		String nome;
-		double preço;
+		double preco;
 		double desconto;
 		
 
